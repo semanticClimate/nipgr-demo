@@ -117,7 +117,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
 
 @page :first {
   size: 210mm 297mm;
-  background-image: linear-gradient(#2062af,#20215E 80%, #fff 10%);
+  background-image: linear-gradient(#F0CCC4,#595959 80%, #fff 10%);
   background-size: 210mm 297mm;
   display: flex;
   margin-top: 30mm;
@@ -151,7 +151,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     color: #000;
     letter-spacing: 0.1pt;
     /*word-spacing: 1px;*/
-    background-image: linear-gradient(#f68b1e,#f3820e);
+    background-image: linear-gradient(#670001,#f3820e);
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0 45%;
@@ -179,7 +179,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     font-size: 12px;
     color: #000;
     letter-spacing: 0.1pt;
-    background-image: linear-gradient(#f68b1e,#f3820e);
+    background-image: linear-gradient(#670001,#f3820e);
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 100% 45%;
@@ -291,7 +291,7 @@ nav::before {
   content: "Contents";
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 55px;
-  color: #f68b1e;
+  color: #670001;
   font-weight: 600;
 }
 nav {
@@ -362,7 +362,7 @@ height: 100vh}
   /*text-align: center;*/
   font-family: "Fira Sans Condensed", sans-serif;
   font-size: 55px;
-  color:#f68b1e;
+  color:#670001;
   page-break-inside: avoid;
   page-break-after: avoid;
   text-transform: none;
@@ -380,7 +380,7 @@ height: 100vh}
   text-transform: none;
   counter-increment: chapter;
   height: 10em;
-  background-image: linear-gradient(#f68b1e,#f68b1e);
+  background-image: linear-gradient(#670001,#670001);
   background-repeat: no-repeat;
   background-size: 80px 9px;
   background-position: 0% 0%;
@@ -423,7 +423,7 @@ h1.part:before {
   text-transform: none;
   counter-increment: chapter;
   height: 1em;
-  background-image: linear-gradient(#f68b1e,#f3820e);
+  background-image: linear-gradient(#670001,#f3820e);
   background-repeat: no-repeat;
   background-size: 80px 9px;
   background-position: 0% 0%;
@@ -437,7 +437,7 @@ h1.part:before {
   font-family: "Fira Sans Condensed", sans-serif;
   string-set: chapter-title content(text);
   font-size: 55px;
-  color:#f68b1e;
+  color:#670001;
   /*margin-top: 2em;*/
   page-break-before: always!important;
   page-break-inside: avoid;
@@ -458,7 +458,7 @@ h1.part:before {
   text-transform: none;
   counter-increment: chapter;
   height: 1em;
-  background-image: linear-gradient(#f68b1e,#f3820e);
+  background-image: linear-gradient(#670001,#f3820e);
   background-repeat: no-repeat;
   background-size: 80px 9px;
   background-position: 0% 0%;
@@ -466,7 +466,7 @@ h1.part:before {
 }
 .article-title:after{
   display: block;
-  background-image: linear-gradient(#f68b1e,#f3820e);
+  background-image: linear-gradient(#670001,#f3820e);
   background-repeat: no-repeat;
   background-size: 80px 9px;
   background-position: 0% 100%;
@@ -693,7 +693,7 @@ blockquote  p.att { text-align: right; }
 h2, h2 strong {
 font-family: "Fira Sans", sans-serif;
 margin-top: 1.5em;
-color:#f68b1e; /*rgb(25,43,83);*/
+color:#670001; /*rgb(25,43,83);*/
 }
 h3, h3 strong,
 h4, h4 strong,
@@ -707,7 +707,7 @@ h6 {
 h1 {
   font-family: "Fira Sans", sans-serif;
   font-size: 55px; /* 2.233rem */
-  color:#f68b1e; /*rgb(25,43,83);*/
+  color:#670001; /*rgb(25,43,83);*/
   margin-bottom: 1em;
   margin-top: 1em;
   page-break-inside: avoid;
@@ -908,7 +908,7 @@ ul.dashed > li {
 ul.dashed > li:before {
   content: "-";
   text-indent: -20px;
-  color:#f68b1e;
+  color:#670001;
   font-size: 120%;
   font-weight: 700;
 }
@@ -983,7 +983,7 @@ table td {
   border-left: 0;
   border-right: 0;
   /*text-align: right;*/
-  border-bottom: 1px solid #f68b1e;
+  border-bottom: 1px solid #670001;
   padding: 1.1em 0.5em;
 }
 
@@ -1052,7 +1052,7 @@ th {
   padding: 1em;
   font-style: italic;
   font-weight: bold;
-  background-color: #2062af;/*#F68B1E*/
+  background-color: #2062af;/*#670001*/
   border-bottom: 2px solid #20215E;
 }
 
@@ -1207,7 +1207,7 @@ section[role=doc-endnotes]:first-of-type::before {
     display: block;
     font-family: "Fira Sans", sans-serif;
     font-size: 1.395rem;
-    color:#f68b1e;
+    color:#670001;
     font-weight: 600;
     border-bottom: 1px solid black;
     height: 2em;
