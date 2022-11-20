@@ -75,7 +75,9 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     src : url(media/FiraSans-ExtraLightItalic.ttf);
     src: local('Fira Sans ExtraLight Italic'), local('FiraSans-ExtraLightItalic'), url(media/FiraSans-ExtraLightItalic.ttf) format('truetype');
 }
+
 /*Condesed*/
+
 @font-face {
     font-family: "Fira Sans Condensed";
     font-weight: 600;
@@ -106,9 +108,11 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     font-style: normal;
     src: local('Fira Sans Condensed ExtraLight'), local('FiraSansCondensed-ExtraLight'), url(media/FiraSansCondensed-ExtraLight.ttf) format('truetype');
 }
+
 *{
   font-family: "Fira Sans", sans-serif;
 }
+
 @page {
   size: 210mm 297mm;
   margin-top: 20mm;
@@ -158,7 +162,6 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     padding-bottom: 70px;
     }
   }
-}
 
 @page :right {
   margin-left: 20mm;
