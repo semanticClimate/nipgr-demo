@@ -159,7 +159,8 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0 45%;
-    padding-bottom: 70px;
+    padding-bottom: 40px;
+    width: 96%;
     }
   }
 
@@ -187,6 +188,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     background-size: 80px 9px;
     background-position: 100% 65%;
     padding-bottom: 40px;
+    width: 96%;
   }
 }
 
