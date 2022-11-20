@@ -117,7 +117,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular
 
 @page :first {
   size: 210mm 297mm;
-  background-image: linear-gradient(#f9eae7,#F0CCC4 80%, #ffffff 10%);
+  background-image: linear-gradient(#e3e3e3,#e3e3e3 80%, #ffffff 10%);
   background-size: 210mm 297mm;
   display: flex;
   margin-top: 30mm;
@@ -155,7 +155,8 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0 45%;
-    padding-bottom: 70px;
+    padding-bottom: 40px;
+    width: 96%;
     }
   }
 
@@ -183,6 +184,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular
     background-size: 80px 9px;
     background-position: 100% 65%;
     padding-bottom: 40px;
+    width: 96%;
   }
 }
 
