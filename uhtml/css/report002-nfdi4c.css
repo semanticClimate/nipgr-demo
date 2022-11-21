@@ -121,7 +121,10 @@ src: local('Inter Regular'), local('Inter-Regular'), url(Inter-Regular.ttf) form
 
 @page :first {
   size: 210mm 297mm;
-  background-image: linear-gradient(#e3e3e3,#e3e3e3 80%, #ffffff 10%);
+  /* background-image: linear-gradient(#e3e3e3,#e3e3e3 80%, #ffffff 10%); */
+  background-image: url(cover.jpg); 
+  background-repeat: no-repeat;
+  background-position: 0 0;
   background-size: 210mm 297mm;
   display: flex;
   margin-top: 30mm;
@@ -155,7 +158,7 @@ src: local('Inter Regular'), local('Inter-Regular'), url(Inter-Regular.ttf) form
     background-image: linear-gradient(#670001,#670001);
     background-repeat: no-repeat;
     background-size: 80px 9px;
-    background-position: 0 45%;
+    background-position: 0 55%;
     padding-bottom: 40px;
     width: 96%;
     }
@@ -190,7 +193,7 @@ src: local('Inter Regular'), local('Inter-Regular'), url(Inter-Regular.ttf) form
     background-image: linear-gradient(#670001,#670001);
     background-repeat: no-repeat;
     background-size: 80px 9px;
-    background-position: 100% 65%;
+    background-position: 100% 55%;
     padding-bottom: 40px;
     width: 96%;
   }
