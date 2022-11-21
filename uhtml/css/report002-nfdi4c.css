@@ -3,77 +3,77 @@
 font-family: "Inter";
 font-weight: 400;
 font-style: normal;
-src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf) format('ttf');
+src: local('Inter Regular'), local('Inter-Regular'), url(Inter-Regular.ttf) format('ttf');
 }
 
 @font-face {
     font-family: "Inter";
     font-weight: 400;
     font-style: italic;
-    src: local('Inter Italic'), local('Inter-Italic'), url(media/Inter-Italic.ttf) format('truetype');
+    src: local('Inter Italic'), local('Inter-Italic'), url(Inter-Italic.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: bold;
     font-style: normal;
-    src: local('Inter Bold'), local('Inter-Bold'), url(media/Inter-Bold.ttf) format('truetype');
+    src: local('Inter Bold'), local('Inter-Bold'), url(Inter-Bold.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: bold;
     font-style: italic;
-    src: local('Inter Bold Italic'), local('Inter-BoldItalic'), url(media/Inter-BoldItalic.ttf) format('truetype');
+    src: local('Inter Bold Italic'), local('Inter-BoldItalic'), url(Inter-BoldItalic.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: 500;
     font-style: normal;
-    src: local('Inter Medium'), local('Inter-Medium'), url(media/Inter-Medium.ttf) format('truetype');
+    src: local('Inter Medium'), local('Inter-Medium'), url(Inter-Medium.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: 500;
     font-style: italic;
-    src: local('Inter Medium Italic'), local('Inter-MediumItalic'), url(media/Inter-MediumItalic.ttf) format('truetype');
+    src: local('Inter Medium Italic'), local('Inter-MediumItalic'), url(Inter-MediumItalic.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: 600;
     font-style: normal;
-    src: local('Inter SemiBold'), local('Inter-SemiBold'), url(media/Inter-SemiBold.ttf) format('truetype');
+    src: local('Inter SemiBold'), local('Inter-SemiBold'), url(Inter-SemiBold.ttf) format('truetype');
 }
 
 @font-face {
     font-family: "Inter";
     font-weight: 600;
     font-style: italic;
-    src: local('Inter SemiBold Italic'), local('Inter-SemiBoldItalic'), url(media/Inter-SemiBoldItalic.ttf) format('truetype');
+    src: local('Inter SemiBold Italic'), local('Inter-SemiBoldItalic'), url(Inter-SemiBoldItalic.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: 300;
     font-style: normal;
-    src: local('Inter Light'), local('Inter-Light'), url(media/Inter-Light.ttf) format('truetype');
+    src: local('Inter Light'), local('Inter-Light'), url(Inter-Light.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: 300;
     font-style: italic;
-    src: local('Inter Light Italic'), local('Inter-LightItalic'), url(media/Inter-LightItalic.ttf) format('truetype');
+    src: local('Inter Light Italic'), local('Inter-LightItalic'), url(Inter-LightItalic.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: 200;
     font-style: normal;
-    src : url(media/Inter-ExtraLight.ttf);
-    src: local('Inter ExtraLight'), local('Inter-ExtraLight'), url(media/Inter-ExtraLight.ttf) format('truetype');
+    src : url(Inter-ExtraLight.ttf);
+    src: local('Inter ExtraLight'), local('Inter-ExtraLight'), url(Inter-ExtraLight.ttf) format('truetype');
 }
 @font-face {
     font-family: "Inter";
     font-weight: 200;
     font-style: italic;
-    src : url(media/Inter-ExtraLightItalic.ttf);
-    src: local('Inter ExtraLight Italic'), local('Inter-ExtraLightItalic'), url(media/Inter-ExtraLightItalic.ttf) format('truetype');
+    src : url(Inter-ExtraLightItalic.ttf);
+    src: local('Inter ExtraLight Italic'), local('Inter-ExtraLightItalic'), url(Inter-ExtraLightItalic.ttf) format('truetype');
 }
 
 /*Condensed*/
@@ -82,31 +82,31 @@ src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf
     font-family: "Roboto Slab";
     font-weight: 600;
     font-style: normal;
-    src: local('Roboto Slab SemiBold'), local('RobotoSlab-SemiBold'), url(media/RobotoSlab-SemiBold.ttf) format('truetype');
+    src: local('Roboto Slab SemiBold'), local('RobotoSlab-SemiBold'), url(RobotoSlab-SemiBold.ttf) format('truetype');
 }
 @font-face {
     font-family: "Roboto Slab";
     font-weight: 500;
     font-style: normal;
-    src: local('Roboto Slab Medium'), local('RobotoSlab-Medium'), url(media/RobotoSlab-Medium.ttf) format('truetype');
+    src: local('Roboto Slab Medium'), local('RobotoSlab-Medium'), url(RobotoSlab-Medium.ttf) format('truetype');
 }
 @font-face {
     font-family: "Roboto Slab";
     font-weight: 400;
     font-style: normal;
-    src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(media/RobotoSlab-Regular.ttf) format('truetype');
+    src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(RobotoSlab-Regular.ttf) format('truetype');
 }
 @font-face {
     font-family: "Roboto Slab";
     font-weight: 300;
     font-style: normal;
-    src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(media/RobotoSlab-Light.ttf) format('truetype');
+    src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(RobotoSlab-Light.ttf) format('truetype');
 }
 @font-face {
     font-family: "Roboto Slab";
     font-weight: 200;
     font-style: normal;
-    src: local('Roboto Slab ExtraLight'), local('RobotoSlab-ExtraLight'), url(media/RobotoSlab-ExtraLight.ttf) format('truetype');
+    src: local('Roboto Slab ExtraLight'), local('RobotoSlab-ExtraLight'), url(RobotoSlab-ExtraLight.ttf) format('truetype');
 }
 
 *{
@@ -127,12 +127,12 @@ src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf
   margin-top: 30mm;
   color: #001668 ;
   page-break-after: always;
-  @bottom-left { content: normal; }
-  @bottom-center { content: normal; }
+    @bottom-left { content: normal; }
+    @bottom-center { content: normal; }
 	@bottom-right { content: normal; }
 	@top-left { content: normal; }
-  @top-right { content: normal;}
-  @top-center { content: normal;}
+    @top-right { content: normal;}
+    @top-center { content: normal;}
 }
 
 @page :left {
@@ -142,9 +142,6 @@ src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf
     content: " ";
   }
   @top-center {
-    content: " ";
-  }
-  @bottom-center {
     content: " ";
   }
   @bottom-left {
@@ -160,7 +157,13 @@ src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf
     background-size: 80px 9px;
     background-position: 0 45%;
     padding-bottom: 40px;
+    width: 96%;
     }
+    @bottom-center {
+        content: " ";
+        width: 2%;
+      }
+      @bottom-right { width: 2%; }
   }
 
 @page :right {
@@ -171,7 +174,9 @@ src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf
   }
   @top-center {
     content: " ";
+    width: 2%;
   }
+  @bottom-left { width: 2%; }
   @bottom-center {
     content: " ";
   }
@@ -187,6 +192,7 @@ src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf
     background-size: 80px 9px;
     background-position: 100% 65%;
     padding-bottom: 40px;
+    width: 96%;
   }
 }
 
