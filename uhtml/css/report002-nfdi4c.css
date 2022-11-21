@@ -1,114 +1,118 @@
 @charset "UTF-8";
 @font-face {
-font-family: "Fira Sans";
+font-family: "Inter";
 font-weight: 400;
 font-style: normal;
-src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular.ttf) format('ttf');
+src: local('Inter Regular'), local('Inter-Regular'), url(media/Inter-Regular.ttf) format('ttf');
 }
 
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 400;
     font-style: italic;
-    src: local('Fira Sans Italic'), local('FiraSans-Italic'), url(FiraSans-Italic.ttf) format('truetype');
+    src: local('Inter Italic'), local('Inter-Italic'), url(media/Inter-Italic.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: bold;
     font-style: normal;
-    src: local('Fira Sans Bold'), local('FiraSans-Bold'), url(FiraSans-Bold.ttf) format('truetype');
+    src: local('Inter Bold'), local('Inter-Bold'), url(media/Inter-Bold.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: bold;
     font-style: italic;
-    src: local('Fira Sans Bold Italic'), local('FiraSans-BoldItalic'), url(FiraSans-BoldItalic.ttf) format('truetype');
+    src: local('Inter Bold Italic'), local('Inter-BoldItalic'), url(media/Inter-BoldItalic.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 500;
     font-style: normal;
-    src: local('Fira Sans Medium'), local('FiraSans-Medium'), url(FiraSans-Medium.ttf) format('truetype');
+    src: local('Inter Medium'), local('Inter-Medium'), url(media/Inter-Medium.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 500;
     font-style: italic;
-    src: local('Fira Sans Medium Italic'), local('FiraSans-MediumItalic'), url(FiraSans-MediumItalic.ttf) format('truetype');
+    src: local('Inter Medium Italic'), local('Inter-MediumItalic'), url(media/Inter-MediumItalic.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 600;
     font-style: normal;
-    src: local('Fira Sans SemiBold'), local('FiraSans-SemiBold'), url(FiraSans-SemiBold.ttf) format('truetype');
+    src: local('Inter SemiBold'), local('Inter-SemiBold'), url(media/Inter-SemiBold.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 600;
     font-style: italic;
-    src: local('Fira Sans SemiBold Italic'), local('FiraSans-SemiBoldItalic'), url(FiraSans-SemiBoldItalic.ttf) format('truetype');
+    src: local('Inter SemiBold Italic'), local('Inter-SemiBoldItalic'), url(media/Inter-SemiBoldItalic.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 300;
     font-style: normal;
-    src: local('Fira Sans Light'), local('FiraSans-Light'), url(FiraSans-Light.ttf) format('truetype');
+    src: local('Inter Light'), local('Inter-Light'), url(media/Inter-Light.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 300;
     font-style: italic;
-    src: local('Fira Sans Light Italic'), local('FiraSans-LightItalic'), url(FiraSans-LightItalic.ttf) format('truetype');
+    src: local('Inter Light Italic'), local('Inter-LightItalic'), url(media/Inter-LightItalic.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 200;
     font-style: normal;
-    src : url(FiraSans-ExtraLight.ttf);
-    src: local('Fira Sans ExtraLight'), local('FiraSans-ExtraLight'), url(FiraSans-ExtraLight.ttf) format('truetype');
+    src : url(media/Inter-ExtraLight.ttf);
+    src: local('Inter ExtraLight'), local('Inter-ExtraLight'), url(media/Inter-ExtraLight.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans";
+    font-family: "Inter";
     font-weight: 200;
     font-style: italic;
-    src : url(FiraSans-ExtraLightItalic.ttf);
-    src: local('Fira Sans ExtraLight Italic'), local('FiraSans-ExtraLightItalic'), url(FiraSans-ExtraLightItalic.ttf) format('truetype');
+    src : url(media/Inter-ExtraLightItalic.ttf);
+    src: local('Inter ExtraLight Italic'), local('Inter-ExtraLightItalic'), url(media/Inter-ExtraLightItalic.ttf) format('truetype');
 }
-/*Condesed*/
+
+/*Condensed*/
+
 @font-face {
-    font-family: "Fira Sans Condensed";
+    font-family: "Roboto Slab";
     font-weight: 600;
     font-style: normal;
-    src: local('Fira Sans Condensed SemiBold'), local('FiraSansCondensed-SemiBold'), url(FiraSansCondensed-SemiBold.ttf) format('truetype');
+    src: local('Roboto Slab SemiBold'), local('RobotoSlab-SemiBold'), url(media/RobotoSlab-SemiBold.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans Condensed";
+    font-family: "Roboto Slab";
     font-weight: 500;
     font-style: normal;
-    src: local('Fira Sans Condensed Medium'), local('FiraSansCondensed-Medium'), url(FiraSansCondensed-Medium.ttf) format('truetype');
+    src: local('Roboto Slab Medium'), local('RobotoSlab-Medium'), url(media/RobotoSlab-Medium.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans Condensed";
+    font-family: "Roboto Slab";
     font-weight: 400;
     font-style: normal;
-    src: local('Fira Sans Condensed Regular'), local('FiraSansCondensed-Regular'), url(FiraSansCondensed-Regular.ttf) format('truetype');
+    src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(media/RobotoSlab-Regular.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans Condensed";
+    font-family: "Roboto Slab";
     font-weight: 300;
     font-style: normal;
-    src: local('Fira Sans Condensed Light'), local('FiraSansCondensed-Light'), url(FiraSansCondensed-Light.ttf) format('truetype');
+    src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(media/RobotoSlab-Light.ttf) format('truetype');
 }
 @font-face {
-    font-family: "Fira Sans Condensed";
+    font-family: "Roboto Slab";
     font-weight: 200;
     font-style: normal;
-    src: local('Fira Sans Condensed ExtraLight'), local('FiraSansCondensed-ExtraLight'), url(FiraSansCondensed-ExtraLight.ttf) format('truetype');
+    src: local('Roboto Slab ExtraLight'), local('RobotoSlab-ExtraLight'), url(media/RobotoSlab-ExtraLight.ttf) format('truetype');
 }
+
 *{
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
 }
+
 @page {
   size: 210mm 297mm;
   margin-top: 20mm;
@@ -117,7 +121,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular
 
 @page :first {
   size: 210mm 297mm;
-  background-image: linear-gradient(#f9eae7,#F0CCC4 80%, #ffffff 10%);
+  background-image: linear-gradient(#e3e3e3,#e3e3e3 80%, #ffffff 10%);
   background-size: 210mm 297mm;
   display: flex;
   margin-top: 30mm;
@@ -145,7 +149,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular
   }
   @bottom-left {
     content: counter(page) " "" | "" "  env(doc-title);
-    font-family: "Fira Sans", sans-serif;
+    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 12px;
     color: #000;
@@ -155,7 +159,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0 45%;
-    padding-bottom: 70px;
+    padding-bottom: 40px;
     }
   }
 
@@ -173,7 +177,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(FiraSans-Regular
   }
   @bottom-right {
     content: string(chapter-title, start) " "" | "" " counter(page);
-    font-family: "Fira Sans", sans-serif;
+    font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 12px;
     color: #000;
@@ -283,12 +287,12 @@ video {
   vertical-align: baseline;
 }
 .copyrightpage p {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   color: #000;
 }
 nav::before {
   content: "Contents";
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 55px;
   color: #670001;
   font-weight: 600;
@@ -298,7 +302,7 @@ nav {
   break-before: always;
   page-break-before: always;
   width: 80%;
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
 }
 nav ol {
   margin-top: 2em;
@@ -359,7 +363,7 @@ background-repeat: no-repeat;*//*logo cover image*/
 height: 100vh}
 .booktitle {
   /*text-align: center;*/
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 55px;
   color:#670001;
   page-break-inside: avoid;
@@ -390,7 +394,7 @@ height: 100vh}
 }
 
 h2.booksubtitle {
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 30px;
   font-weight: 300!important;
   color:#fff;
@@ -398,14 +402,14 @@ h2.booksubtitle {
 
 }
 h3.bookauthor {
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 20px;
   color:#6B0003;
   font-weight: 200!important;
 }
 
 h4.bookversion {
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   font-size: 20px;
   color:#6B0003;
   font-weight: 200!important;
@@ -434,7 +438,7 @@ h1.part:before {
   page-break-before: always!important;
 }
 .article-title {
-  font-family: "Fira Sans Condensed", sans-serif;
+  font-family: "Roboto Slab", sans-serif;
   string-set: chapter-title content(text);
   font-size: 55px;
   color:#670001;
@@ -499,7 +503,7 @@ h1.part:before {
 
 /*Literaturverzeichnis*/
 h1.article-bibliography-header {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 1.395rem;
   text-align: left;
   margin-bottom: 0;
@@ -517,7 +521,7 @@ div.csl-bib-body {
   margin-left: 170px;
 }
 .csl-entry {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 300;
   font-size:  0.8837rem;
   line-height: 1.37;
@@ -596,7 +600,7 @@ table li strong,
 table li .bold,
 table li .Bold,
 table li b {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 700;
 }
 
@@ -626,7 +630,7 @@ strong em {
 }
 
 var {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: normal;
 }
 
@@ -653,7 +657,7 @@ blockquote {
   display: block;
   width: 95%;
   position: relative;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size:  11pt; /* 1.023rem */
   vertical-align: baseline;
   margin-top: 12pt;
@@ -691,7 +695,7 @@ blockquote strong {
 blockquote  p.att { text-align: right; }
 
 h2, h2 strong {
-font-family: "Fira Sans", sans-serif;
+font-family: "Inter", sans-serif;
 margin-top: 1.5em;
 color:#670001; /*rgb(25,43,83);*/
 }
@@ -699,13 +703,13 @@ h3, h3 strong,
 h4, h4 strong,
 h5,
 h6 {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   margin-top: 1.5em;
   color: #000; /*rgb(25,43,83);*/
 }
 
 h1 {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 55px; /* 2.233rem */
   color:#670001; /*rgb(25,43,83);*/
   margin-bottom: 1em;
@@ -724,7 +728,7 @@ h1 strong { font-weight: 400;}
 
 h2 {
   font-size: 1.395rem; /*  */
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   text-transform: none;
   font-weight: 600;
   /*margin: 1.5em 0 1.2em 0;*/
@@ -736,7 +740,7 @@ h2 {
 
 h3 {
   font-size: 1.18rem; /* 1.209rem */
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   margin-top: 17pt;
   page-break-inside: avoid;
   page-break-after: avoid;
@@ -746,7 +750,7 @@ h3 {
 
 h4 {
   font-size: 1.01rem; /* 1.023rem */
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   margin-top: 15pt;
   margin-bottom: 9pt;
   font-weight: 600;
@@ -755,7 +759,7 @@ h4 {
 }
 
 h5 {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 400;
   font-size: 0.97rem; /* 0.930rem*/
   margin-top: 18px;
@@ -765,7 +769,7 @@ h5 {
 }
 
 h6 {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 600;
   font-size: 0.89rem;
   margin-top: 20pt;
@@ -790,7 +794,7 @@ hr.br { border:0; height: 0px; }
 .article-body a.fn {
   left: 0.2em;
   border-bottom: none;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 .footnotes ol li p a {
   text-wrap: word-break;
@@ -802,7 +806,7 @@ hr.br { border:0; height: 0px; }
   font-weight: 400;
   font-size: 80%;
   margin-left: 1.3pc;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
 }*/
 .fnlist p {
   text-indent: 0;
@@ -810,7 +814,7 @@ hr.br { border:0; height: 0px; }
   line-height: 1.3;
   margin: 0.2em 0 0.5em 0;
   font-size: 12px;/*0.76rem*/
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   text-align: left;
 }
 
@@ -820,7 +824,7 @@ hr.br { border:0; height: 0px; }
   color: #000;
   text-indent: 0;
   font-size: 0.7rem;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .footnote-content span {
@@ -849,7 +853,7 @@ figure img {
 }
 
 figure figcaption {
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   margin: 8px 0;
   font-weight: 300;
   font-size:  0.82rem;
@@ -939,7 +943,7 @@ ol li {
 table {
   margin: 0 auto;
   width: 99% !important;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   background-size: 8pt;
   page-break-inside: avoid;
   margin-top: 9pt;
@@ -1004,7 +1008,7 @@ table ol {
   font-weight: 400;
   line-height: 1.37;
   margin: 0;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Inter", sans-serif;
   text-align: left;
   text-indent: 0;
 }
@@ -1204,7 +1208,7 @@ ol.upper-latin {
 section[role=doc-endnotes]:first-of-type::before {
     content: 'Footnotes';
     display: block;
-    font-family: "Fira Sans", sans-serif;
+    font-family: "Inter", sans-serif;
     font-size: 1.395rem;
     color:#670001;
     font-weight: 600;
