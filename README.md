@@ -1,10 +1,13 @@
-## ADA Book Template
+## Digital Publications in Culture: Examples and Key Features – Survey Results from the NFDI4Culture Community
 
-See template support information [here](/about-ada-book-template/readme.md).
+by Matthias Arnold, Alexandra Büttner, Jörg Heseler, and Simon Worthington
 
-Feedback, issues, questions see [project issues board](https://github.com/orgs/TIBHannover/projects/2) or ask in the [discussion area](https://github.com/TIBHannover/ADA/discussions).
+v1.0
 
-  * Licence
-  * Contribute
-  * Credits
-  * Techstack
+ > German translation: Digitale Publikationen im Kulturbereich: Beispiele und Eigenschaften – Umfrageergebnisse aus der NFDI4Culture Community
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="cover/cover-sml.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="cover/cover-sml.jpg">
+ <img alt="publication cover" src="cover/cover-sml.jpg">
+</picture>
