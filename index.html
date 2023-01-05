@@ -200,7 +200,7 @@
           link.classList.remove('disabled')
         }
       }).catch(err => {})
-      fetch('jats/', {
+      fetch('jats/manuscript.xml', {
         method: "HEAD"
       }).then(res => {
         if (res.ok) {
