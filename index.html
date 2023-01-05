@@ -200,6 +200,17 @@
           link.classList.remove('disabled')
         }
       }).catch(err => {})
+      fetch('jats/', {
+        method: "HEAD"
+      }).then(res => {
+        if (res.ok) {
+          const link = document.querySelector("div.sources a.jats")
+          if (setup.repoURL && setup.repoBranch) {
+            link.href = `${setup.repoURL}tree/${setup.repoBranch}/jats`
+          }
+          link.classList.remove('disabled')
+        }
+      }).catch(err => {})
       fetch('latex/book.tex', {
         method: "HEAD"
       }).then(res => {
@@ -245,8 +256,8 @@
         <a class="latex disabled" href="latex">LaTeX</a>
         <a class="epub-source disabled" href="epub">EPUB Source</a>
         <a class="html disabled" href="html">HTML</a>
+        <a class="jats disabled" href="jats">JATS</a>
         <a class="uhtml" href="uhtml">Unified HTML</a>
-        <a class="jats" href="jats">JATS</a>
       </div>
       <article class="markdown-section" id="main"></article>
     </section>
