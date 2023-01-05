@@ -20,7 +20,7 @@ The survey has shown a variety of examples and contexts which go beyond standard
 
 ### Cite as
 
-Arnold, Matthias, Alexandra Büttner, Jörg Heseler, and Simon Worthington. 2022. ‘Digital Publications in Culture: Examples and Key Features – Survey Results from the NFDI4Culture Community’. Digital Publications and Data Working Group (NFDI4Culture). Germany. https://doi.org/10.5281/zenodo.7107214.
+Arnold, Matthias, Alexandra Büttner, Jörg Heseler, and Simon Worthington. 2023. ‘Digital Publications in Culture: Examples and Key Features – Survey Results from the NFDI4Culture Community’. Digital Publications and Data Working Group (NFDI4Culture). Germany. https://doi.org/10.5281/zenodo.7107214.
 
 © The Authors. 
 
