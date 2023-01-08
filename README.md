@@ -1,6 +1,6 @@
 ## Digital Publications in Culture: Examples and Key Features – Survey Results from the NFDI4Culture Community
 
-by Matthias Arnold, Alexandra Büttner, Jörg Heseler, and Simon Worthington
+by Matthias Arnold <a href="https://orcid.org/0000-0003-0876-6177"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>, Alexandra Büttner <a href="https://orcid.org/0000-0002-4950-0941"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>, Jörg Heseler <a href="https://orcid.org/0000-0002-1497-627X"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>, and Simon Worthington <a href="https://orcid.org/0000-0002-8579-9717"><img alt="ORCID logo" src="uhtml/images/ORCIDiD_icon128x128.png" width="16" height="16" /></a>
 
 v1.0
 
