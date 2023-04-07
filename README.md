@@ -1,4 +1,4 @@
-## Report Demo (Appoloosa)
+## Report Demo (Appoloosa Book Style)
 
 Style name: Appoloosa
 
