@@ -8,6 +8,10 @@ Publication demo: https://a-machine.github.io/report-demo/
 
 Repo: https://github.com/a-machine/report-demo
 
+Style code: https://github.com/a-machine/appoloosa-report-style
+
+Style issues: https://github.com/orgs/a-machine/projects/1/views/1
+
 v1.0, 2023
 
 ![Cover](/cover/cover-small.jpg "Cover")
