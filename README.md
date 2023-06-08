@@ -1,4 +1,4 @@
-## Report Demo Style
+## Demo Style for Reports
 
 Style name: Appoloosa
 
