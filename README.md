@@ -1,4 +1,4 @@
-## Report Demo (Appoloosa Publication Style)
+## Report Demo: A-Machine
 
 Style name: Appoloosa
 
