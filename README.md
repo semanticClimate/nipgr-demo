@@ -1,4 +1,4 @@
-## Report Demo: A-Machine
+## Report Demo Style
 
 Style name: Appoloosa
 
