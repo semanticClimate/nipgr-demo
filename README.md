@@ -39,8 +39,15 @@ Vivliostyle path
 Colors
 
 #FA7268 orange
+#fab6b2 orange (lighter for blockquote border)
 #F5F4EF creme grey
+#aeb6bb grey sidebar-border-color
+#C9D5DE grey sidebar-background
+#4D4D4D grey sidebar-nav-link-color--active
 #56ACF6 blue
 #9DCEF8 light blue (+table header)
 #000000 black
 #EAEFEE grey table line
+#989898 grey visited link
+#33333370 text-shadow
+
