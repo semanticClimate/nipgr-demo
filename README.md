@@ -30,4 +30,8 @@ Respective open-source licences apply.
 
 Code by A-Machine is GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html 
 
+### Development
 
+Vivliostyle path
+
+/appaloosa-report/report-demo/uhtml/
