@@ -35,3 +35,12 @@ Code by A-Machine is GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html
 Vivliostyle path
 
 /appaloosa-report/report-demo/uhtml/
+
+Colors
+
+#FA7268 orange
+#F5F4EF creme grey
+#56ACF6 blue
+#9DCEF8 light blue (+table header)
+#000000 black
+#EAEFEE grey table line
