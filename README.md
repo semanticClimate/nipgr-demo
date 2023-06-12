@@ -36,8 +36,9 @@ Vivliostyle path
 
 /appaloosa-report/report-demo/uhtml/
 
-Colors
+#### Color palette
 
+''
 #FA7268 orange
 #fab6b2 orange (lighter for blockquote border)
 #F5F4EF creme grey
@@ -50,4 +51,4 @@ Colors
 #EAEFEE grey table line
 #989898 grey visited link
 #33333370 text-shadow
-
+''
