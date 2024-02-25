@@ -1243,8 +1243,9 @@ h1.article-bibliography-header {
         margin-top: 15px;
       }
       .article-title, h1.part, nav::before {
-       max-width: 100%;
+       max-width: 100%!important;
        font-size: 40px;
+       line-height:1.3;
       }
       nav {
        width: 100%;

@@ -158,6 +158,7 @@ border: none;
     line-height: var(--base-line-height);
     color: var(--heading-h1-color, var(--heading-color));
     text-align: left;
+    max-width: 100%;
 }
 .content .markdown-section h1.article-bibliography-header {
     margin: var(--heading-h2-margin, var(--heading-margin));
@@ -465,4 +466,13 @@ nav.app-nav li a, nav.app-nav li a:visited {
   padding-bottom: 56.25%;
   height: 0; overflow: hidden;
   max-width: 100%;
+}
+@media screen and (min-width: 400px) and (max-width: 700px) {
+  div.sources {
+    left: 45px;
+  }
+  .markdown-section h1, .content .markdown-section .article-title {
+    line-height: 1.25;
+    font-size: 37px;
+  }
 }
