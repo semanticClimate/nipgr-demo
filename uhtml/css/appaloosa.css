@@ -165,15 +165,15 @@
     margin-bottom: 30mm;
   }
 
- /*Cover*/ 
+ /*Cover*/ /* #78AB46 */
   
   @page: first {
     size: 210mm 297mm;
-    background-image: linear-gradient(#F5F4EF,#F5F4EF 73%,#56ACF6, #9dcef8 27%);
+    background-image: linear-gradient(#FFF,#FFF 82%,#78AB46, #78AB46 18%);
     background-size: 210mm 297mm;
     display: flex;
     margin-top: 30mm;
-    color: #FA7268;
+    color: #78AB46;
     page-break-after: always;
     @bottom-left { content: normal; }
     @bottom-center { content: normal; }
@@ -181,6 +181,7 @@
     @top-left { content: normal; }
     @top-right { content: normal;}
     @top-center { content: normal;}
+    margin-bottom: 0mm!important;
   }
 
 /*Verso - left page*/ 
@@ -203,7 +204,7 @@
       color: #000000;
       letter-spacing: 0.1pt;
       /*word-spacing: 1px;*/
-      background-image: linear-gradient(45deg, #FA7268,#FA7268);
+      background-image: linear-gradient(45deg, #78AB46,#78AB46);
       background-repeat: no-repeat;
       background-size: 80px 9px;
       background-position: 0 55%;
@@ -242,7 +243,7 @@
       line-height: 1.4;
       color: #000000;
       letter-spacing: 0.1pt;
-      background-image: linear-gradient(45deg, #FA7268,#FA7268);
+      background-image: linear-gradient(45deg, #78AB46,#78AB46);
       background-repeat: no-repeat;
       background-size: 80px 9px;
       background-position: 100% 55%;
@@ -361,7 +362,7 @@ body {
     content: "Contents";
     font-family: "Arvo", serif;
     font-size: 55px;
-    color: #FA7268;
+    color: #78AB46;
     font-weight: 600;
   }
   nav {
@@ -428,13 +429,9 @@ body {
 /*QR code for content URL*/
 
 div.titlepage {
-  height: 100vh;
-  background-image: url("media/qr.png");
-  /*-webkit-filter: drop-shadow( -5px 5px 5px rgb(165, 165, 165) );
-  filter: drop-shadow( -5px 5px 5px rgb(146, 8, 8)); */
-  background-position: 0% 100%;
-  background-size: 15%;
-  background-repeat: no-repeat; /*logo cover image*/
+  height: 100vh; 
+  background: url(media/nipgr_logo.png) 50% 72% no-repeat, url(media/qr.png) 0% 93% no-repeat;
+  background-size: 25%, 15%;
   margin-top: 0em;
   margin-bottom: 0em;
 }
@@ -461,8 +458,8 @@ div.titlepage {
     display: block;
     text-transform: none;
     counter-increment: chapter;
-    height: 7em;
-    background-image: linear-gradient(45deg, #FA7268,#FA7268);
+    height: 3em;
+    background-image: linear-gradient(45deg, #78AB46,#78AB46);
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0% 0%;
@@ -495,9 +492,11 @@ h4.bookversion {
     font-size: 12px;
     color: #000000;
     font-weight: 400;
-    padding-top: 44em;
     margin: 0;
     text-align: right;
+    position: absolute;
+    bottom: 20mm;
+    left: 150px;
   }
   
 h1.part {
@@ -511,7 +510,7 @@ h1.part:before {
     text-transform: none;
     counter-increment: chapter;
     height: 1em;
-    background-image: linear-gradient(45deg, #FA7268,#FA7268);
+    background-image: linear-gradient(45deg, #78AB46,#78AB46);
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0% 0%;
@@ -525,7 +524,7 @@ h1.part:before {
     font-family: "Arvo", serif;
     string-set: chapter-title content(text);
     font-size: 55px;
-    color:#FA7268;
+    color:#78AB46;
     /*margin-top: 2em;*/
     page-break-before: always!important;
     page-break-inside: avoid;
@@ -546,7 +545,7 @@ h1.part:before {
     text-transform: none;
     counter-increment: chapter;
     height: 1em;
-    background-image: linear-gradient(45deg, #FA7268,#FA7268);
+    background-image: linear-gradient(45deg, #78AB46,#78AB46);
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0% 0%;
@@ -554,7 +553,7 @@ h1.part:before {
   }
 .article-title:after{
     display: block;
-    background-image: linear-gradient(45deg, #FA7268,#FA7268);
+    background-image: linear-gradient(45deg, #78AB46,#78AB46);
     background-repeat: no-repeat;
     background-size: 80px 9px;
     background-position: 0% 100%;
@@ -1134,7 +1133,7 @@ h1.article-bibliography-header {
     border-right: 0;
     padding: 1em;
     font-weight: 600;
-    background-color: #9DCEF8; /*#000000*/
+    background-color: #78AB46; /**/
     border-bottom: 1px solid #000000;
   }
   

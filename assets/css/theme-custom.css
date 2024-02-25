@@ -5,8 +5,8 @@
     --base-font-family                                : "Inter", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif; /*--base-color: var(--mono-shade2);*/
     --link-color                                      : #000000; /*#0A75BD*/
     --link-border-color                               : #000000;
-    --link-color--hover                               : #598749;
-    --link-border-bottom--hover                       : #598749;
+    --link-color--hover                               : #78AB46;
+    --link-border-bottom--hover                       : #78AB46;
     --link-text-decoration                            : underline;
     --link-text-decoration-color                      : #000000;
     --sidebar-name-color                              : #000000;
@@ -14,14 +14,14 @@
     --sidebar-nav-link-color--active                  : #4D4D4D;
     --cover-heading-font-size-max                     : 40;
     --cover-heading-font-size-min                     : 34;
-    --blockquote-border-color                         : #598749;
+    --blockquote-border-color                         : #78AB46;
     --heading-font-family                             : "Roboto Slab", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, serif;
     --heading-h1-font-size: 3rem;
     --heading-h1-font-weight: 600;
-    --heading-h1-color:  #598749;
+    --heading-h1-color:  #78AB46;
     --heading-h1-margin: 10rem 0 3rem 0;
     --heading-h2-font-size: 2rem;/*var(--font-size-xl)*/
-    --heading-h2-color:  #598749;
+    --heading-h2-color:  #78AB46;
     --heading-h3-border-style: solid;
     --heading-h3-font-size: 1.6rem; /*var(--font-size-l)*/
     --heading-h3-font-weight: 400;
@@ -33,8 +33,8 @@
     --heading-h6-font-size: 0.9rem; /*var(--font-size-xs)*/
     --sidebar-nav-link-font-weight--active            : bold;
     --sidebar-border-color                            : #aeb6bb;
-    --sidebar-nav-link-border-color--active           : #598749;
-    --sidebar-nav-link-border-color--hover            : #598749;
+    --sidebar-nav-link-border-color--active           : #78AB46;
+    --sidebar-nav-link-border-color--hover            : #78AB46;
     --sidebar-nav-link-color--active                  : #000000;
     --sidebar-nav-link-color--hover                   : #000000;
     --sidebar-nav-link-font-weight--hover             : 500;
@@ -386,11 +386,11 @@ section.content > aside.nav > .page_toc {
   /*font-size: 14px;*/
 }
 section.content > aside.nav > .page_toc ul a:hover span {
-  color: var(--text-color-tertiary, #598749) !important;
-  color: #598749 !important;
+  color: var(--text-color-tertiary, #78AB46) !important;
+  color: #78AB46 !important;
 }
 .nav .page_toc ul a:hover span {
-  color: #598749 !important;
+  color: #78AB46 !important;
 }
 /*aside.nav > .page_toc .active {
   border-left: 5px solid #FA7268 !important;
@@ -424,7 +424,7 @@ text-decoration-color: var(--sidebar-nav-link-text-decoration-color);
 }
 /* top right menu*/
 nav.app-nav li a:active, nav.app-nav li a:hover {
-    color: #598749 !important;
+    color: #78AB46 !important;
     -webkit-transition:none !important;
     -moz-transition:none !important;
     -o-transition:none !important;
