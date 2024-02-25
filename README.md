@@ -1,20 +1,8 @@
-## Demo Style for Reports
+## Demo 
 
-Style name: Appoloosa
+Manifest example 
 
-An example style for reports to produce multi-format outputs from a single source input using the A-Machine extensible publishing pipeline. The style covers: web, PDF, print-on-demand, paged web, and ebook.
-
-Publication demo: https://a-machine.github.io/report-demo/
-
-Repo: https://github.com/a-machine/report-demo
-
-Style code: https://github.com/a-machine/appoloosa-report-style
-
-Style issues: https://github.com/orgs/a-machine/projects/1/views/1
-
-v1.0, 2023
-
-![Cover](/cover/cover-small.jpg "Cover")
+https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/nipgr-demo/main/publication.json&style=https://raw.githubusercontent.com/semanticClimate/nipgr-demo/main/uhtml/css/appaloosa.css
 
 ### Copyright and license
 
