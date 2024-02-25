@@ -5,8 +5,8 @@
     --base-font-family                                : "Inter", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif; /*--base-color: var(--mono-shade2);*/
     --link-color                                      : #000000; /*#0A75BD*/
     --link-border-color                               : #000000;
-    --link-color--hover                               : #78AB46;
-    --link-border-bottom--hover                       : #78AB46;
+    --link-color--hover                               : #305E39;
+    --link-border-bottom--hover                       : #305E39;
     --link-text-decoration                            : underline;
     --link-text-decoration-color                      : #000000;
     --sidebar-name-color                              : #000000;
