@@ -1,0 +1,42 @@
+{
+    "@context": [
+      "https://schema.org",
+      "https://www.w3.org/ns/pub-context"
+    ],
+    "conformsTo": "https://www.w3.org/TR/pub-manifest/",
+    "type": "Book",
+    "name": "Demo Guide",
+    "author": "NIPGR",
+    "inLanguage": "en",
+    "readingOrder": [ 
+      "pmc/toc.html",
+      "pmc/file001.html",
+      "pmc/file002.html",
+      "pmc/file003.html"
+    ],
+    "resources": [
+        {
+            "type": [
+                "LinkedResource"
+            ],
+            "url": "uhtml/css/media/nipgr.css"
+        },
+        {
+          "type": [
+              "LinkedResource"
+          ],
+          "url": "uhtml/css/media/mathlive.css"
+      },
+        {
+            "type": [
+                "LinkedResource"
+            ],
+            "url": "uhtml/css/media/book.css"
+        }
+      ]
+}
+
+
+
+
+
